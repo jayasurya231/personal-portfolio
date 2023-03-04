@@ -5,7 +5,8 @@ This portfolio project is a showcase of my skills, projects and experiences as a
 
 The project is built using HTML, CSS.
 # Technologies Used
-HTML
+HTML 
+
 CSS
 # Usage
 To view the portfolio, open the index.html file in your web browser.
