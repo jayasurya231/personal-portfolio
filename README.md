@@ -8,11 +8,10 @@ The project is built using HTML, CSS.
 HTML 
 
 CSS
-#Setup
-Clone the repository to your local machine.
-bash
-Copy code
-git clone https://github.com/your-username/personal-portfolio.git
+# Setup
+Clone the repository to your local machine
+
+git clone https://github.com/jayasurya231/personal-portfolio.git
 Open the project in your favorite code editor.
 
 Customize the content to your liking, replacing the placeholder content with your own.
